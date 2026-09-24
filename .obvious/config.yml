@@ -1,0 +1,7 @@
+# obvious repo policy — andresvanegas19/hodor
+# Auto-detected from GitHub repo settings on 2026-09-24:
+# default branch = master; merge commit, squash, and rebase all allowed.
+branches:
+  default: master
+merge:
+  method: merge
